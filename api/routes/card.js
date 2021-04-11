@@ -59,4 +59,4 @@ function(request, response) {
   });
 });
 
-module.exports = route
+module.exports = router;
